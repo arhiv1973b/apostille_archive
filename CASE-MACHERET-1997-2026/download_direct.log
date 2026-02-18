@@ -1,0 +1,105 @@
+2026-02-12 01:42:30,572 - INFO - 📥 Загрузка BOUS9XAQDTFH2...
+2026-02-12 01:42:30,572 - INFO - 📥 Загрузка IMWM44AZGX6N6...
+2026-02-12 01:42:31,446 - ERROR - ❌ IMWM44AZGX6N6: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:31,451 - ERROR - 💥 BOUS9XAQDTFH2: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:31,479 - ERROR - 💥 IMWM44AZGX6N6: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:31,482 - INFO - 📥 Загрузка CQ0VC27VGTCK6...
+2026-02-12 01:42:31,482 - ERROR - 💥 Ошибка потока для BOUS9XAQDTFH2: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:31,499 - INFO - 📥 Загрузка IG4Q770QDXGH7...
+2026-02-12 01:42:31,500 - ERROR - 💥 Ошибка потока для IMWM44AZGX6N6: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:31,761 - ERROR - ❌ CQ0VC27VGTCK6: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:31,772 - ERROR - 💥 CQ0VC27VGTCK6: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:31,784 - INFO - 📥 Загрузка CFYN438ZLLFN2...
+2026-02-12 01:42:31,784 - ERROR - 💥 Ошибка потока для CQ0VC27VGTCK6: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:32,053 - ERROR - ❌ IG4Q770QDXGH7: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:32,065 - ERROR - 💥 IG4Q770QDXGH7: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:32,078 - INFO - 📥 Загрузка PY782CD1YD3E4...
+2026-02-12 01:42:32,079 - ERROR - 💥 Ошибка потока для IG4Q770QDXGH7: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:32,325 - ERROR - ❌ CFYN438ZLLFN2: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:32,341 - ERROR - 💥 CFYN438ZLLFN2: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:32,366 - INFO - 📥 Загрузка AX459BA9XC8V2...
+2026-02-12 01:42:32,366 - ERROR - 💥 Ошибка потока для CFYN438ZLLFN2: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:32,754 - ERROR - ❌ PY782CD1YD3E4: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:32,767 - ERROR - 💥 PY782CD1YD3E4: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:32,786 - INFO - 📥 Загрузка WZ123AB456CD7...
+2026-02-12 01:42:32,786 - ERROR - 💥 Ошибка потока для PY782CD1YD3E4: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:33,209 - ERROR - ❌ AX459BA9XC8V2: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:33,324 - ERROR - 💥 AX459BA9XC8V2: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:33,471 - INFO - 📥 Загрузка EF567GH890IJ1...
+2026-02-12 01:42:33,472 - ERROR - 💥 Ошибка потока для AX459BA9XC8V2: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:33,614 - ERROR - ❌ WZ123AB456CD7: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:33,628 - ERROR - 💥 WZ123AB456CD7: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:33,641 - INFO - 📥 Загрузка KL234MN567OP8...
+2026-02-12 01:42:33,642 - ERROR - 💥 Ошибка потока для WZ123AB456CD7: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:34,047 - ERROR - ❌ EF567GH890IJ1: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:34,107 - ERROR - 💥 EF567GH890IJ1: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:34,137 - INFO - 📥 Загрузка QR890ST123UV4...
+2026-02-12 01:42:34,140 - ERROR - 💥 Ошибка потока для EF567GH890IJ1: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:34,498 - ERROR - ❌ KL234MN567OP8: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:34,616 - ERROR - 💥 KL234MN567OP8: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:34,652 - INFO - 📥 Загрузка WX567YZ890AB2...
+2026-02-12 01:42:34,652 - ERROR - 💥 Ошибка потока для KL234MN567OP8: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:34,940 - ERROR - ❌ QR890ST123UV4: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:34,957 - ERROR - 💥 QR890ST123UV4: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:34,973 - INFO - 📥 Загрузка 5GTUD58SJQ5N6...
+2026-02-12 01:42:34,973 - ERROR - 💥 Ошибка потока для QR890ST123UV4: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:35,400 - ERROR - ❌ WX567YZ890AB2: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:35,456 - ERROR - 💥 WX567YZ890AB2: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:35,480 - INFO - 📥 Загрузка EJ3U9703FPFS4...
+2026-02-12 01:42:35,480 - ERROR - 💥 Ошибка потока для WX567YZ890AB2: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:37,074 - ERROR - 💥 5GTUD58SJQ5N6: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:37,085 - INFO - 📥 Загрузка 3R4T5Y6U7I8O...
+2026-02-12 01:42:37,085 - ERROR - 💥 Ошибка потока для 5GTUD58SJQ5N6: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:37,303 - ERROR - 💥 EJ3U9703FPFS4: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:37,314 - INFO - 📥 Загрузка 9M8N7B6V5C4X...
+2026-02-12 01:42:37,314 - ERROR - 💥 Ошибка потока для EJ3U9703FPFS4: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:37,674 - ERROR - ❌ 3R4T5Y6U7I8O: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:37,683 - ERROR - 💥 3R4T5Y6U7I8O: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:37,696 - INFO - 📥 Загрузка 2W3E4R5T6Y7U...
+2026-02-12 01:42:37,696 - ERROR - 💥 Ошибка потока для 3R4T5Y6U7I8O: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:38,116 - ERROR - ❌ 9M8N7B6V5C4X: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:38,370 - ERROR - 💥 9M8N7B6V5C4X: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:38,396 - INFO - 📥 Загрузка 8I9O0P1Q2W3E...
+2026-02-12 01:42:38,397 - ERROR - 💥 Ошибка потока для 9M8N7B6V5C4X: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:38,554 - ERROR - ❌ 2W3E4R5T6Y7U: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:38,562 - ERROR - 💥 2W3E4R5T6Y7U: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:38,572 - INFO - 📥 Загрузка 7U6Y5T4R3E2W...
+2026-02-12 01:42:38,572 - ERROR - 💥 Ошибка потока для 2W3E4R5T6Y7U: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:39,008 - ERROR - ❌ 8I9O0P1Q2W3E: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:39,019 - ERROR - 💥 8I9O0P1Q2W3E: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:39,031 - INFO - 📥 Загрузка 1Q2W3E4R5T6Y...
+2026-02-12 01:42:39,031 - ERROR - 💥 Ошибка потока для 8I9O0P1Q2W3E: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:39,445 - ERROR - ❌ 7U6Y5T4R3E2W: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:39,706 - ERROR - 💥 7U6Y5T4R3E2W: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:39,719 - INFO - 📥 Загрузка 6Y5U4I3O2P1Q...
+2026-02-12 01:42:39,719 - ERROR - 💥 Ошибка потока для 7U6Y5T4R3E2W: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:39,872 - ERROR - ❌ 1Q2W3E4R5T6Y: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:39,881 - ERROR - 💥 1Q2W3E4R5T6Y: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:39,889 - INFO - 📥 Загрузка 0P9O8I7U6Y5T...
+2026-02-12 01:42:39,889 - ERROR - 💥 Ошибка потока для 1Q2W3E4R5T6Y: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:40,320 - ERROR - ❌ 6Y5U4I3O2P1Q: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:40,334 - ERROR - 💥 6Y5U4I3O2P1Q: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:40,347 - INFO - 📥 Загрузка A1B2C3D4E5F6...
+2026-02-12 01:42:40,347 - ERROR - 💥 Ошибка потока для 6Y5U4I3O2P1Q: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:40,760 - ERROR - ❌ 0P9O8I7U6Y5T: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:41,073 - ERROR - 💥 0P9O8I7U6Y5T: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:41,090 - INFO - 📥 Загрузка G7H8I9J0K1L2...
+2026-02-12 01:42:41,091 - ERROR - 💥 Ошибка потока для 0P9O8I7U6Y5T: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:41,178 - ERROR - ❌ A1B2C3D4E5F6: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:41,190 - ERROR - 💥 A1B2C3D4E5F6: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:41,201 - INFO - 📥 Загрузка M3N4O5P6Q7R8...
+2026-02-12 01:42:41,201 - ERROR - 💥 Ошибка потока для A1B2C3D4E5F6: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:41,612 - ERROR - ❌ G7H8I9J0K1L2: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:41,628 - ERROR - 💥 G7H8I9J0K1L2: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:41,641 - INFO - 📥 Загрузка S9T0U1V2W3X4...
+2026-02-12 01:42:41,641 - ERROR - 💥 Ошибка потока для G7H8I9J0K1L2: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:42,040 - ERROR - ❌ M3N4O5P6Q7R8: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:42,051 - ERROR - 💥 M3N4O5P6Q7R8: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:42,067 - INFO - 📥 Загрузка Y5Z6A7B8C9D0...
+2026-02-12 01:42:42,067 - ERROR - 💥 Ошибка потока для M3N4O5P6Q7R8: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:42,478 - ERROR - ❌ S9T0U1V2W3X4: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:42,509 - ERROR - 💥 S9T0U1V2W3X4: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:42,522 - ERROR - 💥 Ошибка потока для S9T0U1V2W3X4: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:42,896 - ERROR - ❌ Y5Z6A7B8C9D0: Неверный content-type: text/html; charset=utf-8
+2026-02-12 01:42:42,907 - ERROR - 💥 Y5Z6A7B8C9D0: Ошибка загрузки: NOT NULL constraint failed: download_links.security_code
+2026-02-12 01:42:42,921 - ERROR - 💥 Ошибка потока для Y5Z6A7B8C9D0: NOT NULL constraint failed: download_links.security_code

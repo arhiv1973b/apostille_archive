@@ -1,0 +1,16 @@
+=== RECOVERED CODES (5 fixed by substitution) ===
+BO1SF0EVBU6P7 -> BO1SF0EV8U6P7 (B=8)
+IG4Q770QDXG -> IG4Q770QDXGH7 (add H7)
+CK50133ZKLJES -> CK5O133ZKLJE8 (0=O, S=5, Z=2)
+BOU59XAQDTFH2 -> BOUS9XAQDTFH2 (0=O)
+CH3OF0359Q7F9 -> CH3OF03S9Q7F9 (0=O, 5=S)
+
+=== STILL BROKEN (3) ===
+EO2U7XA2FZCK0 - no similar code found
+EO2WE51RLTIQ8 - no similar code found  
+SPWVDSA28PBS8 - duplicate of 5PWVD5A28PBS8, not working
+
+=== SUMMARY ===
+Original: 98 codes
+Working: 90 (+5 recovered = 95 total unique, some duplicates)
+Still broken: 3
